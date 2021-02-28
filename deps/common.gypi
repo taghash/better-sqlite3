@@ -4,7 +4,7 @@
 # ===
 
 {
-  'variables': { 'sqlite3%': '' },
+  'variables': { 'sqlite3%': 'internal', 'sqlite3_libpath%': ''},
   'target_defaults': {
     'default_configuration': 'Release',
     'msvs_settings': {
